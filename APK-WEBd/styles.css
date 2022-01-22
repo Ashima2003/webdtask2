@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    border-radius:10px;
+}
+p{
+    text-align:center;
+}
+h3{
+    text-align:center;
+    background:#F5EEDC;
+}
+.contact{
+    text-align:center;
+}
+img{
+    padding:3px;
+    border:6px solid #EA99D5;
+    background-color:#FFFDDE;
+    border-radius:50%;
+    align:center;
+ }
+ ul{
+     text-align:center;
+     list-style:inside;
+ }
+ 
